@@ -1,16 +1,14 @@
 ![Bitsquare Logo](http://bitsquare.io/images/logo_with_title_border_240_240.png)
 
-## About Bitsquare
-Bitsquare is a **P2P Fiat-BTC Exchange**.   
-It allows to trade fiat money (USD, EURO, ...) for Bitcoins without relying on a centralized exchange like Coinbase or BitStamp.  
-Instead, all participants form a peer to peer market.
 
 ## Webpage
 That is currently a very basic webpage created originally by IRC user AgentScarn.
 If anyone feels to help out to build a more sophisticated one, please get in touch with us!
 
+In the main repository you can find more information about the project or check out our webpage at: [http://bitsquare.io](http://bitsquare.io)
 
-## Resources:
+
+## Project resources:
 * [Web](http://bitsquare.io)
 * [Overview](http://bitsquare.io/images/overview.png)
 * [Videos](https://www.youtube.com/playlist?list=PLXvC3iNe_di9bL1A5xyAKI2PzNg8jU092)
