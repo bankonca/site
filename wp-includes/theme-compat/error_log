@@ -1,0 +1,5 @@
+[04-Nov-2014 23:39:09 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bssite/public_html/wp-includes/theme-compat/footer.php on line 10
+[04-Nov-2014 23:39:09 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bssite/public_html/wp-includes/theme-compat/header.php on line 10
+[04-Nov-2014 23:39:09 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bssite/public_html/wp-includes/theme-compat/sidebar.php on line 10
+[04-Nov-2014 23:39:09 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bssite/public_html/wp-includes/theme-compat/comments.php on line 10
+[04-Nov-2014 23:39:09 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/bssite/public_html/wp-includes/theme-compat/comments-popup.php on line 10

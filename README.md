@@ -1,9 +1,8 @@
-![Bitsquare Logo](http://bitsquare.io/images/logo_240.png)
+![Bitsquare Logo](http://bitsquare.io/oldsite/images/logo_240.png)
 
 
 ## Webpage
-That is currently a very basic webpage created originally by IRC user AgentScarn.
-If anyone feels to help out to build a more sophisticated one, please get in touch with us!
+The web page has been created using Wordpress. The copy held in Github was uploaded on 26th November 2014.
 
 In the main repository you can find more information about the project or check out our webpage at: [http://bitsquare.io](http://bitsquare.io)
 
