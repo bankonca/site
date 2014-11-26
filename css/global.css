@@ -1,8 +1,0 @@
-.empty {
-  min-height: 1px;
-}
-
-@font-face {
-    font-family: moderna;
-    src: local(bttf_font), url('../fonts/MODERNA_.TTF');
-}
