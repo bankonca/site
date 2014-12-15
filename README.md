@@ -1,7 +1,7 @@
 ![Bitsquare Logo](http://bitsquare.io/oldsite/images/logo_240.png)
 
 
-## Bitsquare Webpage
+## Webpage
 The web page has been created using Wordpress. The copy held in Github was uploaded on 26th November 2014.
 
 In the main repository you can find more information about the project or check out our webpage at: [https://bitsquare.io](https://bitsquare.io)
