@@ -1,0 +1,12 @@
+[04-Nov-2014 23:39:42 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/bssite/public_html/wp-includes/SimplePie/Cache/DB.php on line 52
+[04-Nov-2014 23:39:42 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/bssite/public_html/wp-includes/SimplePie/Cache/File.php on line 52
+[04-Nov-2014 23:39:42 UTC] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/bssite/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 58
+[04-Nov-2014 23:39:42 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/bssite/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[17-Jan-2015 15:18:21 America/New_York] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/bitssvfs/public_html/wp-includes/SimplePie/Cache/DB.php on line 52
+[17-Jan-2015 15:18:21 America/New_York] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/bitssvfs/public_html/wp-includes/SimplePie/Cache/File.php on line 52
+[17-Jan-2015 15:18:21 America/New_York] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/bitssvfs/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 58
+[17-Jan-2015 15:18:21 America/New_York] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/bitssvfs/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[22-Jan-2015 00:40:14 America/New_York] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/bitssvfs/public_html/wp-includes/SimplePie/Cache/DB.php on line 52
+[22-Jan-2015 00:40:14 America/New_York] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/bitssvfs/public_html/wp-includes/SimplePie/Cache/File.php on line 52
+[22-Jan-2015 00:40:14 America/New_York] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/bitssvfs/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 58
+[22-Jan-2015 00:40:14 America/New_York] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/bitssvfs/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 59

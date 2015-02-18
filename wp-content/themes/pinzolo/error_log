@@ -1,0 +1,4 @@
+[04-Nov-2014 23:38:07 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/bssite/public_html/wp-content/themes/pinzolo/index.php on line 1
+[17-Jan-2015 15:17:44 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/bitssvfs/public_html/wp-content/themes/pinzolo/index.php on line 1
+[17-Jan-2015 19:58:32 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/bitssvfs/public_html/wp-content/themes/pinzolo/index.php on line 1
+[22-Jan-2015 00:39:36 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/bitssvfs/public_html/wp-content/themes/pinzolo/index.php on line 1

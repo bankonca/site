@@ -1,0 +1,3 @@
+[04-Nov-2014 23:39:11 UTC] PHP Fatal error:  Class 'SimplePie' not found in /home/bssite/public_html/wp-includes/SimplePie/Core.php on line 55
+[17-Jan-2015 15:18:08 America/New_York] PHP Fatal error:  Class 'SimplePie' not found in /home/bitssvfs/public_html/wp-includes/SimplePie/Core.php on line 55
+[22-Jan-2015 00:40:04 America/New_York] PHP Fatal error:  Class 'SimplePie' not found in /home/bitssvfs/public_html/wp-includes/SimplePie/Core.php on line 55
